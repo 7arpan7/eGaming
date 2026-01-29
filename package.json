@@ -1,12 +1,4 @@
 {
-  "name": "for-my-love-countdown",
-  "version": "1.0.0",
-  "description": "A eGaming club website",
-  "main": "egaming_club_website.html",
-  "scripts": {
-    "start": "serve ."
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "name": "byt-esports-club",
+  "version": "1.0.0"
 }
