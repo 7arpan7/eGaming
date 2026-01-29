@@ -1,0 +1,12 @@
+{
+  "name": "for-my-love-countdown",
+  "version": "1.0.0",
+  "description": "A special countdown and memory gallery website",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
