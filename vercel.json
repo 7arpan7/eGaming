@@ -1,7 +1,20 @@
 {
   "version": 2,
-  "name": "byt-esports-club",
-  "buildCommand": null,
-  "outputDirectory": ".",
-  "framework": null
+  "builds": [
+    {
+      "src": "*.html",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/[^.]+$",
+      "dest": "/",
+      "status": 200
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
 }
