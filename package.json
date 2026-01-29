@@ -1,4 +1,18 @@
 {
   "name": "byt-esports-club",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "College eSports Club Website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "echo 'Open index.html in browser'",
+    "start": "echo 'Static HTML site'",
+    "build": "echo 'No build required for static site'"
+  },
+  "keywords": ["esports", "gaming", "college", "club"],
+  "author": "Byt eSports Club",
+  "license": "MIT",
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
 }
