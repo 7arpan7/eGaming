@@ -1,12 +1,7 @@
 {
   "version": 2,
+  "name": "byt-esports-club",
   "buildCommand": null,
   "outputDirectory": ".",
-  "framework": "static",
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
-  ]
+  "framework": null
 }
