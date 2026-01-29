@@ -1,8 +1,8 @@
 {
   "name": "for-my-love-countdown",
   "version": "1.0.0",
-  "description": "A special countdown and memory gallery website",
-  "main": "index.html",
+  "description": "A eGaming club website",
+  "main": "egaming_club_website.html",
   "scripts": {
     "start": "serve ."
   },
